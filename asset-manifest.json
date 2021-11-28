@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Drum-machine/static/css/main.ad464110.chunk.css",
-    "main.js": "/Drum-machine/static/js/main.a97dcdd3.chunk.js",
-    "main.js.map": "/Drum-machine/static/js/main.a97dcdd3.chunk.js.map",
+    "main.js": "/Drum-machine/static/js/main.5915f5cd.chunk.js",
+    "main.js.map": "/Drum-machine/static/js/main.5915f5cd.chunk.js.map",
     "runtime-main.js": "/Drum-machine/static/js/runtime-main.addeb42f.js",
     "runtime-main.js.map": "/Drum-machine/static/js/runtime-main.addeb42f.js.map",
     "static/css/2.6923219e.chunk.css": "/Drum-machine/static/css/2.6923219e.chunk.css",
@@ -12,13 +12,21 @@
     "static/css/2.6923219e.chunk.css.map": "/Drum-machine/static/css/2.6923219e.chunk.css.map",
     "static/css/main.ad464110.chunk.css.map": "/Drum-machine/static/css/main.ad464110.chunk.css.map",
     "static/js/2.e857b9f3.chunk.js.LICENSE.txt": "/Drum-machine/static/js/2.e857b9f3.chunk.js.LICENSE.txt",
-    "static/media/clap-crushed.ee922ec5.wav": "/Drum-machine/static/media/clap-crushed.ee922ec5.wav"
+    "static/media/clap-crushed.ee922ec5.wav": "/Drum-machine/static/media/clap-crushed.ee922ec5.wav",
+    "static/media/clap-slapper.43c04087.wav": "/Drum-machine/static/media/clap-slapper.43c04087.wav",
+    "static/media/cowbell-808.0ea44f38.wav": "/Drum-machine/static/media/cowbell-808.0ea44f38.wav",
+    "static/media/crash-acoustic.611135ae.wav": "/Drum-machine/static/media/crash-acoustic.611135ae.wav",
+    "static/media/hihat-acoustic01.3c533742.wav": "/Drum-machine/static/media/hihat-acoustic01.3c533742.wav",
+    "static/media/hihat-analog.a10e8a63.wav": "/Drum-machine/static/media/hihat-analog.a10e8a63.wav",
+    "static/media/hihat-electro.ac08809a.wav": "/Drum-machine/static/media/hihat-electro.ac08809a.wav",
+    "static/media/kick-808.d89f41a5.wav": "/Drum-machine/static/media/kick-808.d89f41a5.wav",
+    "static/media/perc-hollow.023715a9.wav": "/Drum-machine/static/media/perc-hollow.023715a9.wav"
   },
   "entrypoints": [
     "static/js/runtime-main.addeb42f.js",
     "static/css/2.6923219e.chunk.css",
     "static/js/2.e857b9f3.chunk.js",
     "static/css/main.ad464110.chunk.css",
-    "static/js/main.a97dcdd3.chunk.js"
+    "static/js/main.5915f5cd.chunk.js"
   ]
 }
