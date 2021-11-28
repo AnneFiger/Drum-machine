@@ -1,10 +1,11 @@
 import "./App.scss";
+import crushedClap from '../public/assets/mp3/test1.mp3'
 
 import React from "react";
 import Drumpad from "./Drumpad";
 
 const audioBank = [
-  { src: "/clap-crushed.wav", id: "crushed clap", drumKey: "Q", keyCode: 81 },
+  { src: crushedClap, id: "crushed clap", drumKey: "Q", keyCode: 81 },
 
   { src: "/clap-slapper.wav", id: "clap slapper", drumKey: "W", keyCode: 87 },
 

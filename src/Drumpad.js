@@ -34,7 +34,7 @@ function Drumpad({ clip, onSoundSelected, volume}) {
       }`}
       id={clip.id}
     >
-      <audio className="clip" id={clip.drumKey} src={clip.src} />
+      <audio className="clip" id={clip.drumKey} src={clip.src} type="audio/wav" />
       {clip.drumKey}
     </button>
   );
